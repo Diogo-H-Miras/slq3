@@ -1,7 +1,7 @@
 <?php
 /* aqui vamos conectar o banco de dados */
 $servername = "localhost";
-$database = "gr";
+$database = "diogo";
 $username = "root";
 $password = "";
 
@@ -82,7 +82,7 @@ if (!empty($selecionado)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GR</title>
+    <title>Diogo</title>
     <link rel="stylesheet" href="assets/lib/bootstrap-5.3.0/css/bootstrap.css">
 </head>
 
